@@ -10,3 +10,5 @@ Unlike competitors, Homie not only boasts an extensive service catalog but also 
 Homie's pricing model provides buyers with options, including standard services, premium services, and more. Each service tier comes with a differentiated price, enabling customers to choose a package that aligns with both their specific requirements and budget constraints. This user-centric approach emphasizes Homie's commitment to delivering personalized and affordable solutions to its diverse customer base.
 
 In essence, Homie represents a paradigm shift in the home service industry, offering a comprehensive, flexible, and customer-centric platform that not only saves time but also enhances the overall quality of life for its users.
+
+Developed by: Haolin Yang, Rubén Rodríguez Penabad, Omar Karim, Rebeca Soriano Abejón, José Luque León, Álvaro David Getenay Domínguez, Camille Rachel Lucienne Fabien, David Diez Velázquez and Alberto Bermejo Nuñez
