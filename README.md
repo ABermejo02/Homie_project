@@ -1,4 +1,4 @@
-# Homie_project
+# Homie
 
 
 Homie emerges as a groundbreaking mobile application, redefining the realm of home-based services. Positioned as a platform facilitating direct connections between customers and selected service providers, Homie aims to reshape traditional living habits by prioritizing time-saving convenience. Operating primarily on mobile devices, this open platform specializes in connecting users with skilled professionals who deliver services directly to their homes – a space universally cherished for its safety and comfort.
